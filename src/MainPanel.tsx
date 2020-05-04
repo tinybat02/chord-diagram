@@ -96,7 +96,7 @@ export class MainPanel extends PureComponent<Props> {
           enableLabel={true}
           label="id"
           labelOffset={12}
-          // labelRotation={-90}
+          labelRotation={-90}
           labelTextColor={{ from: 'color', modifiers: [['darker', 1]] }}
           colors={{ scheme: 'nivo' }}
           isInteractive={true}

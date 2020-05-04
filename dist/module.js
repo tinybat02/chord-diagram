@@ -37566,7 +37566,7 @@ function (_super) {
       enableLabel: true,
       label: "id",
       labelOffset: 12,
-      // labelRotation={-90}
+      labelRotation: -90,
       labelTextColor: {
         from: 'color',
         modifiers: [['darker', 1]]

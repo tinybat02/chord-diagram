@@ -1,6 +1,6 @@
-# Simple React Panel
+# Chord Diagram Panel
 
-This is just a stub to show how you can create a basic visualization plugin.
+Create chord diagram for Grafana
 
 First, install dependencies:
 
