@@ -81,7 +81,7 @@ export class MainPanel extends PureComponent<Props> {
         <ResponsiveChord
           matrix={matrix}
           keys={keys}
-          margin={{ top: 60, right: 60, bottom: 90, left: 60 }}
+          margin={{ top: 70, right: 60, bottom: 90, left: 60 }}
           valueFormat=".2f"
           padAngle={0.08}
           innerRadiusRatio={0.96}
