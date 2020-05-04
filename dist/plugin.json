@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Chord Diagram",
+  "id": "id-transition-chord-diagram",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "Transition Flow with Chord Diagram",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": ["chord", "transition"],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2020-05-04"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
